@@ -32,3 +32,4 @@ pip install -qU json-repair==0.29.1 faker==35.2.0
 pip install -qU vllm==0.7.2
 pip install -q huggingface_hub
 "# Structured-Extraction-Fine-Tuning-With-LLaMA-Factory" 
+"# Structured-Extraction-Fine-Tuning-With-LLaMA-Factory" 
